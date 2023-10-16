@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- ⚡ Im a Cloud/DevOps engineer 
+- 🌱 I’m currently working on the Cloud Resume Challenge to learn more about AWS 
+- 📫 How to reach me: Drop me a linkedin message or email me @ zakariyahdaher@gmail.com
 <!--
 **Zakariyah1/Zakariyah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
